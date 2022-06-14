@@ -1,6 +1,15 @@
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
-"spider": "http://fj365.ml/bb/xb.txt?raw=true",
+# spider
+// 00.官方jar
+"spider": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/custom_spider.txt",
+
+// 01.🐼 (非官方) 缝合jar
+// "spider":"https://raw.fastgit.org/YuanHsing/OneClickRun/master/maoo/maoocustom_spider.jar",
+
+
+// 04.🦖 (非官方) 唐三大佬维护接口:
+// Github --> https://github.com/Tangsan99999/Tangsan99999.github.io
 "sites":[
 //{"key":"csp_xpath_saohuotv","name":"骚火电影(XP)022/5/29更新接口","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://fj365.ml/6/saohuotv2.json"},
 {"key":"csp_biubiu_骚火电影","name":"🥒骚火电影(XB)022/5/29更新接口","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://fj365.ml/bb/骚火电影.json"},
