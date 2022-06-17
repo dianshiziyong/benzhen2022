@@ -1,37 +1,24 @@
-"spider": "http://fj365.ml/0/0.txt?raw=true",
+{
+"wallpaper":"https://picsum.photos/1280/720/?blur=10",
+
+# spider
+// 00.官方jar
+"spider": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/custom_spider.txt",
+
+// 01.🐼 (非官方) 缝合jar
+// "spider":"https://raw.fastgit.org/YuanHsing/OneClickRun/master/maoo/maoocustom_spider.jar",
+
+
+// 04.🦖 (非官方) 唐三大佬维护接口:
+// Github --> https://github.com/Tangsan99999/Tangsan99999.github.io
+
 //"spider": "https://sharertv.coding.net/p/mao/d/mao/git/raw/master/custom_spider.jar",
 //"spider": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/main_spider.txt",
-//"wallpaper":"https://picsum.photos/1080/",
-"sites": [
-
-{"key":"csp_appysv2_M2_红牛影视","name":"红牛影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://124.222.126.23:777/mogai_api.php/v1.vod"},
-{"key":"csp_appysv2_365影室","name":"365影室","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://www.kan365.xyz/api.php/app/"},
-{"key":"csp_appysv2_M2_独播影院","name":"独播影院","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://35ys.cc/api.php/v1.vod"}, 
-{"key":"csp_appysv2_M2_粉象影院","name":"粉象影院","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://42.157.129.15:34444/lvdou_api.php/v1.vod"},
-{"key":"csp_appysv2_M2_DC影视","name":"DC影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://chaorenbb.com/api.php/v1.vod"},
-{"key":"csp_appysv2_M2_麻瓜资源","name":"麻瓜资源","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://aliyun.k8aa.com/mogai_api.php/v1.vod"},
-{"key":"csp_appysv2_M2_爱酷影院","name":"爱酷影院","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"},
-{"key":"csp_appysv2_极酷影视","name":"极酷影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://jiku.vip/mogai_api.php/v1.vod"},
-{"key":"csp_appysv2_剧白白影视","name":"剧白白影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://www.jubaibai.cc/api.php/app/"},
-{"key":"csp_appysv2_M2_1080影院","name":"1080影院","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://123.250idc.com/mogai_api.php/v1.vod"},
-{"key":"csp_appysv2_M2_天空影院","name":"天空影院","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tkys.tv/xgapp.php/v2/"},
-{"key":"csp_xpath_lranc","name":"天天影视(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/lranc.json"},
-{"key":"csp_appysv2_M2_VIP影视","name":"VIP影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://360yy.cn/api.php/app/"},
-{"key":"csp_xpath_huohuo99","name":"火火影视(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/huohuo99.json"},
-
-{"key": "csp_Buka","name": "真不卡(爬虫)","type": 3,"api": "csp_Buka","searchable": 0,"quickSearch": 0,"filterable": 1},
-{"key":"csp_N0ys","name":"90爬虫","type":3,"api":"csp_N0ys","searchable":1,"quickSearch":0,"filterable":0},
-{"key":"csp_Auete","name":"奥特爬虫","type":3,"api":"csp_Auete","searchable":1,"quickSearch":0,"filterable":1},
-{"key":"csp_Enlienli","name":"嗯哩爬虫","type":3,"api":"csp_Enlienli","searchable":1,"quickSearch":0,"filterable":1},
-{"key":"csp_Nekk","name":"9亿爬虫","type":3,"api":"csp_Nekk","searchable":1,"quickSearch":0,"filterable":1},
-{"key": "csp_xpath_ysjc",  "name": "工厂Y视(XPath)","type": 3,"api": "csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://sharertv.coding.net/p/mao/d/mao/git/raw/master/ext/gc.json"},
-{"key":"csp_xpath_94sm","name":"94","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wklb.coding.net/p/c/d/bktx123/git/raw/master/sub/xpath/94sm.json"},
-{"key":"csp_xpath_jpys","name":"极品Y视(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wklb.coding.net/p/c/d/bktx123/git/raw/master/sub/xpath/jpys.json"},
 
 
-{"key":"csp_ysdq_海胆影视", "name":"海胆影视(搜)", "type":3, "api":"csp_Ysdq","searchable":1,"quickSearch":0, "ext":"海胆影视"},
-{"key":"csp_ysdq_京广航", "name":"京广航(搜)", "type":3, "api":"csp_Ysdq","searchable":1,"quickSearch":0, "ext":"京广航"},
-{"key":"csp_ysdq_冷视TV", "name":"冷视TV(搜)", "type":3, "api":"csp_Ysdq","searchable":1,"quickSearch":0, "ext":"冷视TV"},
+
+"sites":[
+{"key":"*博天堂","name":"*博天堂","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":0,"quickSearch":0},
 
 
 
