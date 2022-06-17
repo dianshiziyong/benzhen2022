@@ -11,7 +11,7 @@
 
 // 04.🦖 (非官方) 唐三大佬维护接口:
 // Github --> https://github.com/Tangsan99999/Tangsan99999.github.io
-//"spider": "https://raw.githubusercontent.com/benzhen2022/benzhen2022/main/custom_spider.jar?raw=true;md5;c6ed6bc8285f0aca90e7cb3abf7f9caa",
+
 
 # 直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIuY29tL1l1YW5Ic2luZy9mcmVlZC9yYXcvbWFzdGVyL3R2L2xpdmUudHh0"]}]}],
