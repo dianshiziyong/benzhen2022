@@ -1,7 +1,27 @@
+
 {
+"wallpaper":"https://picsum.photos/1280/720/?blur=10",
 
-"spider": "http://fj365.ml/0/0.txt?raw=true",
 
+## spider
+# 00.官方jar
+# TG (猫影视TV渡口🛳, 不定期开放邀请链接 ) --> https://t.me/catvodtv_offical
+//"spider":"https://github.com/catvod/CatVodTVSpider/blob/master/jar/custom_spider.jar?raw=true",
+
+# 02.🦖 (非官方) 唐三大佬维护接口:
+# Github --> https://github.com/Tangsan99999/
+# TG --> https://t.me/tangsan99999
+
+# 03.🥒 (非官方) 小黄瓜大佬 XBiubiuLA.jar:
+# Github --> https://github.com/lite-cucumber/
+# 套Biubiu+LiteApple+七七+PushAgent规则
+//"spider":"https://oneclickrun.yuanhsing.cf/MaooXB/XBiubiuLA2.jar",
+# 套Biubiu优化+LiteApple+Kuaikan规则 (没有PushAgent)
+"spider":"https://oneclickrun.yuanhsing.cf/MaooXB/XBiubiuLA3.jar",
+
+//"spider": "http://fj365.ml/0/0.txt?raw=true",
+  
+  
 
 {"sites": [
 {"key":"csp_xpath___在线之家","name":"0508","type":3,"api":"csp_XPath"      ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://json.myaixixi.com/mtv/xpath/zxzj.json"},
