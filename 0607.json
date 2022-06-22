@@ -43,8 +43,15 @@
 {"key":"csp_appysv2_益达影视","name":"益达影视〔Z〕","type":3,"api":"csp_AppYsV2"    ,"searchable":1,"quickSearch":0,"filterable":1,"ext":"http://luobu.yss6080.com/mogai_api.php/v1.vod"},
 {"key":"csp_appysv2_月色影视","name":"月色影视〔Z〕","type":3,"api":"csp_AppYsV2"    ,"searchable":1,"quickSearch":0,"filterable":1,"ext":"http://69ty.cc/mogai_api.php/v1.vod"}],
 
+  #
+// 推送功能扩展（需v2.1.0.Beta6及以上版本）
+// 需要在配置文件中，加入key为push_agent的站点，数据返回格式和普通爬虫一致
+// 支持推送播放网盘链接
 
-//以下直播列表
+{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0}
+#
+
+],
 "lives": [
 //proxy加载列表
 //{"group":"redirect","channels":[
