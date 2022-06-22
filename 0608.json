@@ -2,13 +2,13 @@
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 "spider": "https://raw.githubusercontent.com/benzhen2022/benzhen2022/main/custom_spider.jar?raw=true;md5;c6ed6bc8285f0aca90e7cb3abf7f9caa",
 "sites":[
-
+{"key":"共青春","name":"共青春(聚)","type":1,"api":"https:gqcyy.com/api.php/provide/vod/","playUrl":"parse:parwix1","searchable":0,"quickSearch":1},
 {"key":"39影视","name":"39影视(聚)","type":1,"api":"https:www.39kan.com/api.php/provide/vod/","searchable":0,"quickSearch":1},
  {"key":"剧大神","name":"剧大神(聚)","type":1,"api":"http:judashen.com/api.php/provide/vod/","playUrl":"parse:parwix1","searchable":0,"quickSearch":1},
 {"key":"橘猫影视","name":"橘猫影视(聚)","type":1,"api":"http:www.zitv.cc/api.php/provide/vod/","searchable":0,"quickSearch":1},
 {"key":"飘花电影","name":"飘花电影(聚)","type":1,"api":"http:www.zzrhgg.com/api.php/provide/vod/","searchable":0,"quickSearch":1},
 {"key":"MBO影视","name":"MBO影视(聚)","type":0,"api":"https:www.mbomovie.com/api.php/provide/vod/at/xml/","searchable":0,"quickSearch":0},
-{"key":"共青春","name":"共青春(聚)","type":1,"api":"https:gqcyy.com/api.php/provide/vod/","playUrl":"parse:parwix1","searchable":0,"quickSearch":1},
+
 {"key":"酷猫影视","name":"酷猫影视(聚)","type":1,"api":"https:www.pgcms10.com/api.php/provide/vod/","searchable":0,"quickSearch":1},
 {"key":"飞速资源","name":"飞速资源(切)","type":1,"api":"https:www.feisuzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"光速资源","name":"光速资源(切)","type":1,"api":"https:api.guangsuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
