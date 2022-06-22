@@ -24,8 +24,7 @@
 {"key":"奥特曼资源","name":"奥特曼资源(官)","type":1,"api":"https://aotemanzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"雪人官采","name":"雪人官采(官)","type":1,"api":"https://zl.chinafix.wang/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"木子看剧","name":"木子看剧(官)","type":1,"api":"https://mzkj.maccms.cf/api.php/provide/vod/","searchable":1,"quickSearch":1},
-#
-#切片资源
+
 //{"key":"极速BT资源","name":"极速BT资源(切)","type":1,"api":"https://api.jisubt.com/videos","searchable":0,"quickSearch":0},
 //{"key":"步步高资源","name":"步步高资源(切)","type":1,"api":"https://api.yparse.com/api/json","searchable":0,"quickSearch":0},
 {"key":"快车资源","name":"快车资源(切)","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
@@ -58,8 +57,7 @@
 {"key":"乐多资源","name":"乐多资源(切)","type":0,"api":"http://cj.leduocaiji.com/inc/api.php","playUrl":"json:https://api.leduotv.com/wp-api/getvodurl.php?vid=","searchable":1,"quickSearch":1},
 //{"key":"聚合资源","name":"聚合资源(切)","type":1,"api":"https://ziyuan.juhesys.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"南国影源","name":"南国影源(切)","type":1,"api":"http://api.nguonphim.tv/api.php/provide/vod/","searchable":1,"quickSearch":1},
-#
-#优质资源
+
 {"key":"淘剧鸭","name":"淘剧鸭(优)","type":1,"api":"https://so2.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"293影视","name":"293影视(优)","type":1,"api":"http://293x.yhzy.xyz/mv/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"U酷资源","name":"U酷资源(优)","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
@@ -96,8 +94,7 @@
 {"key":"乐活影视","name":"乐活影视(优)","type":1,"api":"https://lehootv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 //{"key":"星一蓝光","name":"星一蓝光(优)","type":1,"api":"http://lgku.suboyun.cn/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"筋斗云","name":"筋斗云(优)","type":1,"api":"https://tv.jindcloud.com/api.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1},
-#
-#三方聚合
+
 {"key":"影图","name":"影图(聚)","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"猪猪影院","name":"猪猪影院(聚)","type":1,"api":"https://www.2zdyy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"美剧星球","name":"美剧星球(聚)","type":1,"api":"https://www.meijuxq.tv/inc/apijson_vod.php","searchable":0,"quickSearch":0},
@@ -137,8 +134,6 @@
 {"key":"胖猫影视","name":"胖猫影视(聚)","type":1,"api":"http://www.pangmaotv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"嘛哩嘛哩","name":"嘛哩嘛哩(聚)","type":1,"api":"https://malimali3.com/api.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1,"categories":["国产动漫","日韩动漫","欧美动漫","港台动漫"]},
 {"key":"海外电影","name":"海外电影(聚)","type":1,"api":"https://www.200121.com/api.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1},
-#
-
 ],
 
 
