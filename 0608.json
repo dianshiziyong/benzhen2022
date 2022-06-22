@@ -27,7 +27,7 @@
     "key": "神速资源",
     "name": "神速资源",
     "type": 0,
-    "api": "https://api.sszyapi.com/api.php/provide/vod/?ac=list",
+    "api": "https://api.sszyapi.com/api.php/provide/vod/at/xml",
     "searchable": 1,
     "quickSearch": 1},
 {
