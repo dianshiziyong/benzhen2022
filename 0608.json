@@ -2,10 +2,7 @@
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 "spider": "https://raw.githubusercontent.com/benzhen2022/benzhen2022/main/custom_spider.jar?raw=true;md5;c6ed6bc8285f0aca90e7cb3abf7f9caa",
 "sites":[
-{"key":"速影","name":"速影(聚)","type":1,"api":"https:速影128.xyz/inc/apijson.php","searchable":0,"quickSearch":0},
-{"key":"奈菲迷","name":"奈菲迷(优)","type":1,"api":"http://www.3innolux.com/ruifenglb_api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"诺讯资源","name":"诺讯资源(官)","type":1,"api":"http:caiji.nxflv.com/api.php/provide/vod/","playUrl":"https:www.nxflv.com/?url=","searchable":1,"quickSearch":1},
-{"key":"江北资源","name":"江北资源(官)","type":1,"api":"https:gfzycj.hnmj.vip/api.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1},
+
 {"key":"39影视","name":"39影视(聚)","type":1,"api":"https:www.39kan.com/api.php/provide/vod/","searchable":0,"quickSearch":1},
  {"key":"剧大神","name":"剧大神(聚)","type":1,"api":"http:judashen.com/api.php/provide/vod/","playUrl":"parse:parwix1","searchable":0,"quickSearch":1},
 {"key":"橘猫影视","name":"橘猫影视(聚)","type":1,"api":"http:www.zitv.cc/api.php/provide/vod/","searchable":0,"quickSearch":1},
